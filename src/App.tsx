@@ -2,11 +2,6 @@ import heroeImg from './assets/images/heroe.jpeg'
 import sound from './assets/sound/New-West-Those-Eyes.mp3';
 import './App.css'
 
-// Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/effect-fade';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { useEffect, useRef, useState } from 'react';
